@@ -27,3 +27,5 @@ Then go to evaluation directory, write in `evaluation.bash` pathes to directorie
 ```bash
 bash evaluation.bash
 ```
+
+To contact us, please visit https://enot.ai or email us at enot@enot.ai.
